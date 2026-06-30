@@ -15,7 +15,7 @@ A web-based weather forecasting application built with Django that provides real
  Tech Stack
 
 - Backend: Django (Python)
-- Frontend: HTML, CSS, Bootstrap (or custom CSS)
-- API: OpenWeatherMap API (or your chosen weather API)
-- Database: SQLite (default Django DB)
+- Frontend: HTML, CSS, Bootstrap
+- API: OpenWeatherMap API 
+- Database: SQLite 
 
